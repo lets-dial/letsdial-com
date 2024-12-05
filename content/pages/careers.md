@@ -111,10 +111,12 @@ sections:
         type: FeaturedItem
       - title: 2. Can I use Letsdial for international calls?
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Yes, Letsdial supports international calling with competitive rates.
+          You can select numbers from various countries and manage global
+          communications effortlessly
+
         colors: bg-neutral-fg-dark
         styles:
           self:
