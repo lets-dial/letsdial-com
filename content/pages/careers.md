@@ -132,10 +132,11 @@ sections:
         type: FeaturedItem
       - title: 6. Does Letsdial offer customer support?
         subtitle: Customer Support
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Yes, Letsdial provides 24/7 customer support via email, chat, or phone
+          to assist with any issues or questions you may have
+
         colors: bg-neutral-fg-dark
         styles:
           self:
