@@ -3,7 +3,7 @@ title: help-center
 slug: careers
 sections:
   - title:
-      text: A team that works closely together
+      text: Access Support Whenever You Need It
       color: text-dark
       styles:
         self:
