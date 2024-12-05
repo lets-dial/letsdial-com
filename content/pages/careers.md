@@ -53,7 +53,7 @@ sections:
       opacity: 100
       url: /images/abstract-background.svg
   - title:
-      text: Meet the team
+      text: Knowledge Base
       color: text-dark
       styles:
         self:
