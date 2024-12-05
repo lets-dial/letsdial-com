@@ -80,7 +80,7 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
   - title:
-      text: FAQ
+      text: FAQs
       color: text-dark
       styles:
         self:
