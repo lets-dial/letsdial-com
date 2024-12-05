@@ -131,7 +131,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 6. Does Letsdial offer customer support?
-        subtitle: Engineering
+        subtitle: Customer Support
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
