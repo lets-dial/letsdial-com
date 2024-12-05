@@ -10,12 +10,16 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Section subtitle
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    text: >+
+      The **Letsdial Help Center** is a comprehensive resource designed to
+      assist businesses in maximizing their communication efficiency. It
+      provides guidance on using virtual phone systems, troubleshooting issues
+      like call forwarding and SMS delivery errors, and setting up features such
+      as voicemail, custom greetings, and international calling. With tools for
+      managing shared numbers, internal team discussions, and detailed call
+      analytics, the Help Center ensures seamless operations and improved
+      customer engagement
+
     actions:
       - label: Contact Us
         url: 'https://www.letsdial.com/help-center/'
