@@ -21,7 +21,7 @@ sections:
       customer engagement
 
     actions:
-      - label: Contact Us
+      - label: Help-Center
         url: 'https://www.letsdial.com/help-center/'
         icon: arrowRight
         iconPosition: right
