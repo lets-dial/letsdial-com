@@ -4,7 +4,9 @@
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
@@ -12,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Pricing",
-            "url": "/pricing",
+            "url": "https://www.letsdial.com/pricing-and-plans/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
