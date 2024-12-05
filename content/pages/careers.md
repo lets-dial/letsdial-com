@@ -83,7 +83,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     items:
       - title: 1. What services does Letsdial offer?
         subtitle: Sales
