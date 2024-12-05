@@ -90,10 +90,12 @@ sections:
     items:
       - title: 1. What services does Letsdial offer?
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Letsdial provides virtual phone systems with features like call
+          forwarding, voicemail, call recording, and customizable greetings. It
+          also supports international calling and team collaboration through
+          shared numbers and analytics dashboards​
+
         colors: bg-neutral-fg-dark
         styles:
           self:
