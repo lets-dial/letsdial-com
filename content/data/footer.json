@@ -4,14 +4,14 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Letsdial\n\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
+                "label": "Phone System",
+                "altText": "Phone System",
+                "url": "https://www.letsdial.com/phone-system/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -19,15 +19,7 @@
             },
             {
                 "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
+                "url": "https://www.letsdial.com/pricing-and-plans/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -42,7 +34,7 @@
             {
                 "label": "Careers",
                 "altText": "careers page",
-                "url": "/careers",
+                "url": "https://www.letsdial.com/help-center/#",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -50,7 +42,7 @@
             },
             {
                 "label": "Blog",
-                "url": "/blog",
+                "url": "https://www.letsdial.com/blog/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -61,27 +53,27 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
+            "altText": "Instagram",
+            "url": "https://www.instagram.com/letsdial_/?igsh=Z3d3d2gwODM5bXRp#",
+            "icon": "instagram",
             "type": "Social"
         },
         {
             "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
+            "url": "https://x.com/i/flow/login?redirect_after_login=%2FLets_Dial",
             "icon": "twitter",
             "type": "Social"
         },
         {
             "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
+            "url": "https://www.linkedin.com/company/letsdial/",
             "icon": "linkedin",
             "type": "Social"
         },
         {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
+            "altText": "YouTube",
+            "url": "https://www.youtube.com/@letsdial",
+            "icon": "youtube",
             "type": "Social"
         }
     ],

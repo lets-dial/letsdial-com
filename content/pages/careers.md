@@ -1,28 +1,33 @@
 ---
-title: Careers
+title: help-center
 slug: careers
 sections:
   - title:
-      text: A team that works closely together
+      text: Access Support Whenever You Need It
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
     subtitle: Section subtitle
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    text: >+
+      The **Letsdial Help Center** is a comprehensive resource designed to
+      assist businesses in maximizing their communication efficiency. It
+      provides guidance on using virtual phone systems, troubleshooting issues
+      like call forwarding and SMS delivery errors, and setting up features such
+      as voicemail, custom greetings, and international calling. With tools for
+      managing shared numbers, internal team discussions, and detailed call
+      analytics, the Help Center ensures seamless operations and improved
+      customer engagement
+
     actions:
-      - label: See open positions
-        url: /
+      - label: Help-Center
+        url: 'https://www.letsdial.com/help-center/'
         icon: arrowRight
         iconPosition: right
         style: primary
         type: Button
+        altText: help-center
     colors: bg-neutral-fg-dark
     styles:
       self:
@@ -48,15 +53,13 @@ sections:
       opacity: 100
       url: /images/abstract-background.svg
   - title:
-      text: Meet the team
+      text: Knowledge Base
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
     people:
-      - content/data/person1.json
-      - content/data/person2.json
       - content/data/person3.json
       - content/data/person4.json
       - content/data/person5.json
@@ -75,7 +78,7 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
   - title:
-      text: Open positions
+      text: FAQs
       color: text-dark
       styles:
         self:
@@ -83,12 +86,14 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     items:
-      - title: Account Executive
+      - title: 1. What services does Letsdial offer?
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Letsdial provides virtual phone systems with features like call
+          forwarding, voicemail, call recording, and customizable greetings. It
+          also supports international calling and team collaboration through
+          shared numbers and analytics dashboards​
+
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -102,12 +107,14 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Open Source Engineer
+      - title: 2. Can I use Letsdial for international calls?
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Yes, Letsdial supports international calling with competitive rates.
+          You can select numbers from various countries and manage global
+          communications effortlessly
+
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -121,12 +128,13 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Senior Software Engineer
-        subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: 6. Does Letsdial offer customer support?
+        subtitle: Customer Support
+        text: >+
+
+          Yes, Letsdial provides 24/7 customer support via email, chat, or phone
+          to assist with any issues or questions you may have
+
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -138,13 +146,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-    actions:
-      - label: Apply now
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
+    actions: []
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
