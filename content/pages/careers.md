@@ -23,6 +23,7 @@ sections:
         iconPosition: right
         style: primary
         type: Button
+        altText: help-center
     colors: bg-neutral-fg-dark
     styles:
       self:
