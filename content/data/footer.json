@@ -42,7 +42,7 @@
             },
             {
                 "label": "Blog",
-                "url": "/blog",
+                "url": "https://www.letsdial.com/blog/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
