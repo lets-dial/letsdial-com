@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Help-centre
 slug: careers
 sections:
   - title:
