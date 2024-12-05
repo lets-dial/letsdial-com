@@ -34,7 +34,7 @@
             {
                 "label": "Careers",
                 "altText": "careers page",
-                "url": "/careers",
+                "url": "https://www.letsdial.com/help-center/#",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
